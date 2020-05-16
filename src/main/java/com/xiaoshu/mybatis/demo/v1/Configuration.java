@@ -1,4 +1,4 @@
-package com.xiaoshu.mybatis.demo;
+package com.xiaoshu.mybatis.demo.v1;
 
 import java.lang.reflect.Proxy;
 import java.util.ResourceBundle;

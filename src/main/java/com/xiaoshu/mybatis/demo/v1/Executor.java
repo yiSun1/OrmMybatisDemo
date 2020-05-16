@@ -1,6 +1,6 @@
-package com.xiaoshu.mybatis.demo;
+package com.xiaoshu.mybatis.demo.v1;
 
-import com.xiaoshu.mybatis.demo.domain.Blog;
+import com.xiaoshu.mybatis.demo.v1.domain.Blog;
 
 import java.sql.*;
 

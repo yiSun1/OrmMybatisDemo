@@ -1,7 +1,7 @@
-package com.xiaoshu.mybatis.demo;
+package com.xiaoshu.mybatis.demo.v1;
 
-import com.xiaoshu.mybatis.demo.domain.Blog;
-import com.xiaoshu.mybatis.demo.mapper.BlogMapper;
+import com.xiaoshu.mybatis.demo.v1.domain.Blog;
+import com.xiaoshu.mybatis.demo.v1.mapper.BlogMapper;
 
 public class main {
     public static void main(String[] args) {

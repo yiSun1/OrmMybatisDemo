@@ -1,4 +1,4 @@
-package com.xiaoshu.mybatis.demo.domain;
+package com.xiaoshu.mybatis.demo.v1.domain;
 
 import java.io.Serializable;
 
